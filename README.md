@@ -1,6 +1,6 @@
 # POWER-BI_Projects
 Introduction
-The sales analysis examines the performance of delivered and returned orders, assessing the impact of returns on overall profitability.
+The E_Commerce analysis examines the performance of delivered and returned orders, assessing the impact of returns on overall profitability.
 
 About Dataset
 The dataset was obtained from a training practice
