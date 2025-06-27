@@ -19,6 +19,7 @@ And the customer's age is extracted from the customer's date of birth column.
 Data Analysis was done in Power BI
 
 Data Visualization-Dashboard 
+![Dashboard](https://github.com/ChynweAnn/POWER-BI_Projects/blob/main/ECOMMERCE%20DASHBOARD.pbix)
 
 Insights:
 The company made losses as a result of the returned items. Manager Path is to be promoted, looking at the region he is covering and the profit
